@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace site"
+  }
+}

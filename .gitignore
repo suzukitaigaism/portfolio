@@ -27,3 +27,9 @@ dist-ssr
 .agent/
 .claude/
 .github/skills/
+
+# Original design files (large, keep local only)
+design-assets/
+
+# Unreleased projects (not public yet; move back into profile.ts after release)
+private/
